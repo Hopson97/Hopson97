@@ -6,7 +6,7 @@
 
 Welcome to my Github!
 
-I put pretty much everything I do here, from playing around and general experimentation, to my own personal hobby project.
+I put pretty much everything I do here, from playing around and general experimentation, to my own personal hobby projects.
 
 You can find videos of some projects on my youtube here: https://www.youtube.com/channel/UCeQhZOvNKSBRU0Mdg7V44wA
 
