@@ -12,6 +12,5 @@ You can find videos of some projects on my youtube here: https://www.youtube.com
 
 I also have a (Work in Progress) website here: https://hopson97.github.io/
 
-| [![My Stats](https://github-readme-stats.vercel.app/api?username=hopson97&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hopson97&show_icons=true&theme=tokyonight&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
+|<img src="https://github-readme-stats.vercel.app/api?username=Hopson97&count_private=true&include_all_commits=true&theme=" /></a> | <a href="https://github.com/StephenSLI"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hopson97&layout=compact&hide=jupyter notebook&count_private=true&langs_count=8&theme=" /></a> |
+| ------------- | ------------- |
